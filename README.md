@@ -111,3 +111,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 Hi there! I'm **Aijaj Sadik Mulla**.
+My Linkedin profile : https://www.linkedin.com/in/aijaj-mulla/
